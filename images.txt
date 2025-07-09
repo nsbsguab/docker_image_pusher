@@ -1,3 +1,3 @@
-dustynv/jetson-inference
+dustynv/jetson-inference:r36.3.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
